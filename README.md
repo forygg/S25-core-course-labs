@@ -1,3 +1,6 @@
+[![Python application](https://github.com/forygg/S25-core-course-labs/actions/workflows/ci.yml/badge.svg?branch=lab3)](https://github.com/forygg/S25-core-course-labs/actions/workflows/ci.yml)
+
+
 # DevOps Engineering Labs
 
 ## Introduction
